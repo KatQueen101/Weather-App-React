@@ -1,0 +1,48 @@
+.Weather .weather-app-wrapper {
+  border: 1px solid white;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 30px auto;
+  background-color: #9fd3c7;
+}
+
+.Weather .col-2 {
+  position: relative;
+  top: 300px;
+}
+
+.Weather .today-info {
+  list-style-type: none;
+  padding: 10px;
+  text-align: left;
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+.Weather .today-info li {
+  margin: 20px;
+}
+
+.Weather .card-body {
+  text-align: left;
+  font-size: 15px;
+}
+
+.Weather .card {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.Weather .number {
+  text-align: left;
+}
+
+.Weather .units {
+  font-size: 20px;
+  position: relative;
+  top: -15px;
+}
+
+.Weather .units a {
+  text-decoration: none;
+}
