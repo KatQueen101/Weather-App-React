@@ -76,6 +76,10 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <footer>
+        Coded by Alexandria Goss, and open-sourced on{" "}
+        <a href="https://github.com/KatQueen101/Weather-App-React">GitHub</a>
+      </footer>
     </div>
   );
 }
